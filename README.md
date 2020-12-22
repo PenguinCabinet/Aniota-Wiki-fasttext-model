@@ -1,5 +1,5 @@
 
-# Anime-Wiki-fasttext-model
+# Aniota-Wiki-fasttext-model
 This fattext model is made by ["Aniota Wiki"](https://w.atwiki.jp/aniwotawiki/) written in Japanese.\
 "Aniota Wiki" is a big wiki written about animes , games or sub-culture in Japan.\
 Learned data is 841MB.\
